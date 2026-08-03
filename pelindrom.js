@@ -72,3 +72,13 @@ if(str==revStr){
 else{
     console.log("NOT PELINDROM STRING")
 }
+
+
+// let array = [1,2,3,2,1]
+// let revarray=array.split("").reverse().join("");
+
+// if(array==revarray){
+//     console.log("pelindrom")
+// } else{
+//     console.log("not pelindrom")
+// }
